@@ -89,7 +89,7 @@ const initialState = {
   ],
   shortcutApps: [
     {
-      name: "Google Chrome",
+      name: "Based Chrome",
       icon: icons.apps.chrome,
       width: 35,
       height: 35,
@@ -115,7 +115,7 @@ const initialState = {
       },
     },
     {
-      name: "LinkedIn",
+      name: "BasedIn",
       icon: icons.apps.linkedin,
       width: 35,
       height: 35,
