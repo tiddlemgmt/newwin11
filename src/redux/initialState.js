@@ -146,7 +146,7 @@ const initialState = {
           "Hello Deri Kurniawan!, [your message here]"
         );
         window.open(
-          `https://wa.me/+625720959031?text=${textMessage}`,
+          `https://t.me/basedoscoin`,
           "_blank",
           WIN_FEATURES
         );
@@ -260,7 +260,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://www.twitter.com/",
+          "https://x.com/basedoscoin",
           "_blank",
           WIN_FEATURES
         );
