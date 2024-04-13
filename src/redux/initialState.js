@@ -146,7 +146,7 @@ const initialState = {
           "Hello Deri Kurniawan!, [your message here]"
         );
         window.open(
-          `https://t.me/basedoscoin`,
+          `https://t.me/base_os`,
           "_blank",
           WIN_FEATURES
         );

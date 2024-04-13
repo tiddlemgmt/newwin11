@@ -137,6 +137,9 @@ const LockScreen = () => {
               <div>
                 <div className="mt-3 text-xl">{dayDateMonth}</div>
               </div>
+              <div>
+                <div className="mt-3 text-m">Click anywhere to unlock BaseOS</div>
+              </div>
             </div>
           </div>
           <div className="absolute bottom-10 right-10">
@@ -223,6 +226,7 @@ const LockScreen = () => {
                     >
                       I forgot my PIN
                     </div>
+                    
                   </>
                 )}
               </>
